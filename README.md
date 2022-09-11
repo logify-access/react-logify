@@ -1,4 +1,10 @@
-# React Logify Basic
+# React Logify
+
+## Sample Code
+
+[Logify.id](https://logify.id) - Unlimited free authorization & authentication service
+
+[Tutorial](https://logify.id/articles/react-logify-basic)
 
 ## Install package
 
