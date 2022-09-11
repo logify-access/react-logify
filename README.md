@@ -8,7 +8,7 @@
 
 ## Install package
 
-`npm install react-logify-basic`
+`npm install react-logify`
 
 ## Setup env variable
 

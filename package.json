@@ -1,6 +1,6 @@
 {
   "name": "react-logify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Login with Logify with ReactJs",
   "main": "index.js",
   "scripts": {
