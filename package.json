@@ -1,6 +1,6 @@
 {
   "name": "react-logify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Login with Logify with ReactJs",
   "main": "index.js",
   "scripts": {
@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/logify-access/react-logify.git"
+    "url": "https://github.com/logify-id/react-logify.git"
   },
   "bugs": {
-    "url": "https://github.com/logify-access/react-logify/issues"
+    "url": "https://github.com/logify-id/react-logify/issues"
   },
-  "homepage": "https://github.com/logify-access/react-logify",
+  "homepage": "https://github.com/logify-id/react-logify",
   "author": "Atul Gupta",
   "license": "ISC",
   "peerDependencies": {
