@@ -21,7 +21,7 @@ REACT_APP_LOGIFY_DOMAINKEY = YOUR_DOMAIN_KEY
 ## Import useLogify
 
 ```js
-import useLogify from 'react-logify-test';
+import useLogify from 'react-logify';
 ```
 
 ```js
